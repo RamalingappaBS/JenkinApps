@@ -8,9 +8,9 @@ namespace Calculator
             return x + y + z;
 
         }
-        public int Multiply(int x, int y, int z)
+        public int Multiply(int x, int y)
         {
-            return x * y * z;
+            return x * y;
         }
     }
 }
